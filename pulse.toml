@@ -1,0 +1,5 @@
+[project]
+name = "Open Multiplayer standard libraries"
+publisher = "pulsepm"
+repo = "omp-stdlib"
+contributors = [ "ITB CompuPhase", "Ron Cain", "James Hendrix" ]
